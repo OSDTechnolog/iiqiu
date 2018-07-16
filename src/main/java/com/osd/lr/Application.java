@@ -1,12 +1,12 @@
-package com.osd.iiqiu.iiqiu;
+package com.osd.lr;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class IiqiuApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(IiqiuApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 }
